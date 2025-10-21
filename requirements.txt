@@ -1,0 +1,27 @@
+python-dotenv
+google-generativeai
+google-adk
+
+
+# MCP (Model Context Protocol) dependencies
+mcp
+pydantic
+
+# FastAPI and web dependencies (for your backend)
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Environment and configuration
+python-dotenv
+pyyaml
+
+# Data processing
+pandas
+numpy
+
+# HTTP and networking
+requests
+
+#UI for prototype
+streamlit
